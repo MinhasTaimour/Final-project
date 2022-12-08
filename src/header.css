@@ -1,0 +1,151 @@
+.header{
+    /* background-color: rgb(243, 54, 86); */
+    background-color: lightblue;
+      /* background-image: url('./assets/b3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    height:150px;
+}
+.logo{
+    color: darkcyan;
+}
+.page{
+    /* height: 100vh; */
+    width: 100vw;
+    background-image: url('./assets/b3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+    /* background-color: rgb(253, 223, 228); */
+
+    /* background-color: rgb(243, 227, 135); */
+  
+}
+.card{
+    background-color: black;
+    color: rgb(253, 152, 0);
+}
+.cardbody{
+    background-color: black;
+}
+.pagebar{
+    background-color: black;
+}
+.pageheader{
+    background-color: pink;
+}
+.login{
+    height: 100vh;
+    width: 100vw;
+    /* background-image: url('./assets/b3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black */
+    background-color: rgb(253, 223, 228);
+
+  
+}
+
+  
+ .lform{
+    background-color: rgb(228, 142, 156);
+ /* border: solid lightblue; */
+ border-radius: 15px;
+ height: 240px;
+ width: 500px;
+ color: white;
+ text-align: center;
+} 
+
+.register{
+  
+    height: 100vh;
+    width: 100vw;
+    /* background-image: url('./assets/b3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black */
+    /* background-color: rgb(252, 212, 212); */
+    background-color: rgb(253, 223, 228);
+
+
+}
+.rform{
+    /* background-color: transparent; */
+    /* border: solid lightcyan; */
+    border-radius: 15px;
+    height: 515px;
+    width: 500px;
+    color: white;
+    text-align: center;
+    background-color: rgb(228, 142, 156);
+
+   }
+.py3{
+    color: rgb(6, 160, 160);
+    font-size: 18px;
+    font-weight: bolder;
+    
+}
+.py33{
+    color: rgb(14, 114, 14);
+}
+.py4{
+    color: rgb(3, 136, 136);
+    font-size: large;
+    font-weight: 30px;
+    
+    
+}
+.py4{
+    color: green;
+}
+.productlist{
+    
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./assets/b3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    /* background-color: black */
+}
+
+.addproduct{
+
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(253, 223, 228);
+    
+    }
+.Pform{
+    /* background-color: rgb(201, 192, 192); */
+    /* background-color: rgb(133, 178, 214); */
+     background-color: rgb(228, 142, 156);
+    /* border: solid lightcyan; */
+    border-radius: 15px;
+    height: 350px;
+    width: 500px;
+    color: white;
+    text-align: center;
+
+}
+/* .img {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+} */
